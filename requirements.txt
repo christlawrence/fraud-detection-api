@@ -1,0 +1,26 @@
+# requirements
+# Core API and serving
+fastapi[all]
+uvicorn[standard]
+
+# data, modeling
+numpy
+pandas>=2.3.1
+scikit-learn
+xgboost
+shap>=0.48.0
+
+# visualization, explainabilty
+matplotlib
+seaborn
+imageio>=2.37.0
+pillow
+
+# embed, graphs for GIF
+umap-learn
+networkx
+
+# utils
+requests
+python-dotenv
+python-json-logger
