@@ -1,0 +1,15 @@
+{
+  "params": {
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "subsample": 0.6,
+    "colsample_bytree": 1.0,
+    "reg_alpha": 0.5,
+    "reg_lambda": 2.0,
+    "n_estimators": 300,
+    "scale_pos_weight": 336.33223811364513
+  },
+  "score_aucpr": 0.9937054970269011,
+  "timestamp": 1755037563,
+  "model_file": "booster_trial_018.json"
+}

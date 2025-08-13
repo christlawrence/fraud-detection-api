@@ -1,0 +1,10 @@
+{
+  "decision_threshold": 0.9008095860481262,
+  "threshold_selection": {
+    "strategy": "precision>=0.95",
+    "precision_target": 0.95
+  },
+  "best_iteration": 54,
+  "scale_pos_weight": 336.33223811364513,
+  "eval_metric": "aucpr"
+}

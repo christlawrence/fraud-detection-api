@@ -1,0 +1,11 @@
+step
+amount
+oldbalanceOrg
+newbalanceOrig
+oldbalanceDest
+newbalanceDest
+errorBalanceOrig
+errorBalanceDest
+isBlackHoleTransaction
+hourOfDay
+type_TRANSFER

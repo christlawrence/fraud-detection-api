@@ -1,0 +1,9 @@
+{
+  "model_path": "/Users/nangs/Documents/fraud-detection-api/models/fraud_detection_model_final.json",
+  "features_path": "/Users/nangs/Documents/fraud-detection-api/models/fraud_detection_model_final.json.features",
+  "metadata_path": "/Users/nangs/Documents/fraud-detection-api/models/fraud_detection_model_final.json.metadata.json",
+  "threshold": 0.9931153655052185,
+  "have_shap": true,
+  "n_test": 831123,
+  "n_test_pos": 2464
+}

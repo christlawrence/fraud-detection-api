@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.9995596319678315,
+  "precision": 0.8730440967283073,
+  "recall": 0.9963474025974026,
+  "f1": 0.9306292645943897,
+  "auroc": 0.9991927278555811,
+  "auprc": 0.9937748523036449,
+  "best_iteration": 54,
+  "scale_pos_weight": 336.33223811364513,
+  "n_estimators": 300,
+  "early_stopping_rounds": 50,
+  "training_method": "xgb.train"
+}
