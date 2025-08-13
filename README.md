@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="reports/gifs/1_fraud_network.gif" width="850" alt="Fraud Contagion Animation">
+  <img src="reports/gifs/1_fraud_network.gif" width="850" alt="Fraud Contagion Network Visualization">
 </p>
 
 ---
